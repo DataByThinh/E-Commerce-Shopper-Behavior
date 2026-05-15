@@ -2,3 +2,6 @@
 .vscode 
 venv
 requirements.txt
+
+#data
+data/raw/
